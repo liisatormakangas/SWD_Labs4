@@ -1,2 +1,3 @@
 Some text added
 Adding another line of text
+Adding text while in branch1
